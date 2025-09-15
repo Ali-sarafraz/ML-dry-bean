@@ -84,4 +84,4 @@ pip install -r requirements.txt
 - Deploy the XGBoost model in a production environment for real-time predictions.
 
 ## Contact
-For questions or contributions, please contact [Your Name] at [Your Email].
+For questions or contributions, please contact [Ali] at [ali.sarafraz530@gmail.com].
